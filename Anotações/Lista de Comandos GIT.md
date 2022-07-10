@@ -1,0 +1,16 @@
+- cd “nome diretorio’ : ir até o diretório
+- mkdir : criar diretório
+- ls : listar
+- cd .. : voltar um nível
+- ls -a : pastas ocultas
+- git add : mover pra staging
+- git init ; inicializa um repositório git na pasta em questão
+- git add * : adiciona
+- git commit : criar comiit  “criar a img congelada do código” (prof do curso de Git e Github)
+- git status : estado do arquivo
+- mv “nome do arquivo a mover” ./ ”nome do diretório a receber” : mover
+- git commit -m “msg” : todos arquivos staging envelopou numa mensagem, dando significância a eles, e criou esse objeto do git chamado commit (prof do curso de Git e GitHub)
+- git config --list : lista de configurações
+- git remote add origin : para adicionar o caminho
+- git push : para terminar de adicionar
+- git clone e o linkcopiado do github : para copiar projeto
